@@ -1,0 +1,1 @@
+// API route removed as we're handling everything client-side

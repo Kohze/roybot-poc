@@ -1,0 +1,1 @@
+// Middleware removed as it's not needed for static export

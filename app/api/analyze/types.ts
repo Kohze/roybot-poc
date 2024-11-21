@@ -1,0 +1,1 @@
+// Types file removed as we're handling everything client-side
